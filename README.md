@@ -8,7 +8,7 @@ Especialización en Ciencia de Datos e Inteligencia Artificial · UTEC – MIT �
 
 ## Descripción
 
-Análisis integral de los datos de ventas de **La Campeona Empanadas**, una cadena con dos sucursales en Montevideo (Cordón y Punta Carretas). El dataset cubre el período enero 2024 – febrero 2026 y fue exportado directamente desde el sistema POS del negocio.
+Análisis integral de los datos de ventas de **La Campeona Empanadas**, una cadena con dos sucursales en Montevideo (Cordón y Punta Carretas). El dataset cubre el período enero 2024 a febrero 2026 y fue exportado directamente desde el sistema POS del negocio.
 
 El proyecto abarca desde la limpieza y preparación de datos hasta modelos predictivos de demanda, pasando por análisis exploratorio, georreferenciación de pedidos y segmentación de clientes.
 
